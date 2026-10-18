@@ -29,6 +29,8 @@ This collection follows five principles:
 | **Fixed Income** | *A Unified Framework for Pricing, Term Structure, Risk, and Markets* | **[Read PDF](./guides/Fixed_Income.pdf)** |
 | **Financial Data Science** | *A Unified Modeling Framework* | **[Read PDF](./guides/Financial_Data_Science.pdf)** |
 | **Investments** | *A Quantitative Finance Master Guide* | **[Read PDF](./guides/Investments.pdf)** |
+| **Options & Greeks** | *An Interview-Oriented Mathematical and Economic Guide* | **[Read PDF](./guides/Options_Greeks_Master_Guide.pdf)** |
+
 
 ### Fixed Income
 
@@ -52,7 +54,6 @@ Organizes regression, least squares, maximum likelihood, uncertainty quantificat
 
 ### Investment
 
-
 **The conceptual map:**
 
 `Investment Problem → Returns & Risk → Economic Valuation (SDF) → Expected Returns & Risk Forecasting → Portfolio Optimization → Asset Pricing & Factor Models → Robust Construction → Implementation → Performance Evaluation`
@@ -60,6 +61,16 @@ Organizes regression, least squares, maximum likelihood, uncertainty quantificat
 Develops investment theory from the fundamental problem of allocating capital under uncertainty. Beginning with return measurement, risk preferences, no-arbitrage, and the stochastic discount factor, the guide builds a unified framework connecting expected-return prediction, covariance estimation, portfolio optimization, CAPM, multifactor asset pricing, and systematic investment strategies. It then extends the theoretical framework to estimation uncertainty, portfolio constraints, active management, performance attribution, and market efficiency—linking financial economics to practical quantitative investment research.
 
 **[Open the Investments guide →](./guides/Investments.pdf)**
+
+### Options & Greeks
+
+**The conceptual map**
+
+`Payoff → Distribution → Price → Derivatives → Hedge → P&L`
+
+Builds option intuition from terminal payoffs and no-arbitrage pricing through the Black–Scholes–Merton model and its full sensitivity surface. The guide derives and interprets delta, gamma, vega, theta, rho, and higher-order Greeks; connects moneyness, maturity, implied volatility, and realized volatility to hedging and P&L; and closes with practical frameworks, worked problems, and common traps for quantitative-finance interviews.
+
+**[Open the Options & Greeks guide →](./guides/Options_Greeks_Master_Guide.pdf)**
 
 
 ## Who this is for
