@@ -26,10 +26,21 @@ This collection follows five principles:
 
 | Subject | Guide | PDF |
 | :-- | :-- | :-- |
+| **Poisson, Exponential, Gamma & Beta** | *A Unified Framework for Counts, Waiting Times, Order Statistics, and Probability Inference* | **[Read PDF](./guides/Poisson_Exponential_Gamma_Beta_Unified_Guide.pdf)** |
 | **Fixed Income** | *A Unified Framework for Pricing, Term Structure, Risk, and Markets* | **[Read PDF](./guides/Fixed_Income.pdf)** |
 | **Financial Data Science** | *A Unified Modeling Framework* | **[Read PDF](./guides/Financial_Data_Science.pdf)** |
 | **Investments** | *A Quantitative Finance Master Guide* | **[Read PDF](./guides/Investments.pdf)** |
 | **Options & Greeks** | *An Interview-Oriented Mathematical and Economic Guide* | **[Read PDF](./guides/Options_Greeks_Master_Guide.pdf)** |
+
+### Poisson, Exponential, Gamma & Beta
+
+**The conceptual map**
+
+`Poisson Counts → Exponential Waits → Gamma/Erlang Arrival Times → Inspection Paradox → Beta & Order Statistics → Gamma Ratios → Bayesian Updating & Prediction`
+
+Builds a unified probability framework by asking what is random: a count, a waiting time, a position, a proportion, or an unknown probability. Starting from Poisson processes, the guide derives Exponential and Gamma waiting-time laws through equivalent events, then connects Beta distributions to order statistics, same-rate Gamma ratios, Bayesian inference, Beta–Binomial prediction, and common quantitative-finance interview problems.
+
+**[Open the Poisson, Exponential, Gamma & Beta guide →](./guides/Poisson_Exponential_Gamma_Beta_Unified_Guide.pdf)**
 
 
 ### Fixed Income
