@@ -27,6 +27,7 @@ This collection follows five principles:
 | Subject | Guide | PDF |
 | :-- | :-- | :-- |
 | **Poisson, Exponential, Gamma & Beta** | *A Unified Framework for Counts, Waiting Times, Order Statistics, and Probability Inference* | **[Read PDF](./guides/Poisson_Exponential_Gamma_Beta_Unified_Guide.pdf)** |
+| **Conditioning, Generating Functions & Gaussian Methods** | *Conditional Probability, Expectation, Variance, and Normal Distributions* | **[Read PDF](./guides/Contidion_GF_Gaussian.pdf)** |
 | **Fixed Income** | *A Unified Framework for Pricing, Term Structure, Risk, and Markets* | **[Read PDF](./guides/Fixed_Income.pdf)** |
 | **Financial Data Science** | *A Unified Modeling Framework* | **[Read PDF](./guides/Financial_Data_Science.pdf)** |
 | **Investments** | *A Quantitative Finance Master Guide* | **[Read PDF](./guides/Investments.pdf)** |
@@ -41,6 +42,16 @@ This collection follows five principles:
 Builds a unified probability framework by asking what is random: a count, a waiting time, a position, a proportion, or an unknown probability. Starting from Poisson processes, the guide derives Exponential and Gamma waiting-time laws through equivalent events, then connects Beta distributions to order statistics, same-rate Gamma ratios, Bayesian inference, Beta–Binomial prediction, and common quantitative-finance interview problems.
 
 **[Open the Poisson, Exponential, Gamma & Beta guide →](./guides/Poisson_Exponential_Gamma_Beta_Unified_Guide.pdf)**
+
+### Conditioning, Generating Functions & Gaussian Methods
+
+**The conceptual map**
+
+`Joint Model → Condition → Aggregate → PGF/MGF/CGF → Random Sums → Gaussian Moments → Projection → Multivariate Signals`
+
+Develops a unified toolkit for computing probabilities, predicting means, and quantifying risk under partial information. The guide moves from conditional distributions, continuous Bayes, total expectation, and total variance to probability-, moment-, and cumulant-generating functions; it then applies those tools to random sums, normal moments, Gaussian conditioning, orthogonal projection, multivariate normal models, signal extraction, and quantitative-finance interview problems.
+
+**[Open the Conditioning, Generating Functions & Gaussian Methods guide →](./guides/Contidion_GF_Gaussian.pdf)**
 
 
 ### Fixed Income
