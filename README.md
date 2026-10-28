@@ -30,6 +30,7 @@ This collection follows five principles:
 | **Conditioning, Generating Functions & Gaussian Methods** | *Conditional Probability, Expectation, Variance, and Normal Distributions* | **[Read PDF](./guides/Contidion_GF_Gaussian.pdf)** |
 | **Fixed Income** | *A Unified Framework for Pricing, Term Structure, Risk, and Markets* | **[Read PDF](./guides/Fixed_Income.pdf)** |
 | **Financial Data Science** | *A Unified Modeling Framework* | **[Read PDF](./guides/Financial_Data_Science.pdf)** |
+| **Dynamic Programming** | *Seven Problem Families and a Framework for Unfamiliar Problems* | **[Read PDF](./guides/Dynamic_Programming.pdf)** |
 | **Investments** | *A Quantitative Finance Master Guide* | **[Read PDF](./guides/Investments.pdf)** |
 | **Options & Greeks** | *An Interview-Oriented Mathematical and Economic Guide* | **[Read PDF](./guides/Options_Greeks_Master_Guide.pdf)** |
 
@@ -73,6 +74,16 @@ Starts from the law of one price and valuation of dated cash flows, then develop
 Organizes regression, least squares, maximum likelihood, uncertainty quantification, model evaluation, diagnostics, and financial time-series modeling as successive decisions in a unified statistical workflow, connecting mathematical theory with financial applications.
 
 **[Open the Financial Data Science guide →](./guides/Financial_Data_Science.pdf)**
+
+### Dynamic Programming
+
+**The conceptual map**
+
+`Problem Statement → Constraints → Minimal Sufficient State → Bellman Equation/Recurrence → Base Cases → Top-Down or Bottom-Up → Complexity → Space Optimization → Executable Code`
+
+Builds dynamic programming from first principles for quantitative-research and trading interviews. The guide develops state design, recurrence proofs, memoization, tabulation, complexity analysis, and implementation through seven problem families: optimal stopping and expected-value games, sequential state machines, knapsack and resource allocation, sequence alignment and grid paths, interval and zero-sum games, bitmask compression, and digit/Markov counting. It closes with a reusable framework for deriving and coding solutions to unfamiliar problems.
+
+**[Open the Dynamic Programming guide →](./guides/Dynamic_Programming.pdf)**
 
 ### Investment
 
